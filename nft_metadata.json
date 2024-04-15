@@ -2,6 +2,6 @@
    "image": "https://arbelin94.github.io/kingdomton/pavel_cover.png",
    "name": "KingdomTon Passport",
    "description": "The holder of this document is an Honorary Knight of the Kingdom of Ton. Authenticated by: @durov",
-   "social_links": [@kingdomton],
+   "social_links": "@kingdomton",
    "marketplace": "getgems.io"
 }
